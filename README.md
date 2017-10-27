@@ -3,7 +3,7 @@ Java 开发资源收集
 
 >收集整理关于Java开发学习的资源。
 
-#国外
+# 国外
 
 [openjdk](http://openjdk.java.net/)
 
@@ -19,7 +19,7 @@ he place to collaborate on an open-source implementation of the Java Platform, S
 
 
 
-#好的博客
+# 好的博客
 
 
 [dream 的博客](http://www.jsondream.com/)
@@ -34,7 +34,7 @@ skywang12345 博客包含数据结构，Java线程等系列文章
 
 
 
-#好的平台网站
+# 好的平台网站
 
 [ibm developerworks
 ](https://www.ibm.com/developerworks/cn/java/)
@@ -80,12 +80,12 @@ ibm旗下的developerworks网站，很多关于Java的高质量博客，查找�
 备注 ：以上部分内容参考 知乎 [国内有哪些质量高的java社区？](https://www.zhihu.com/question/29836842)
 
 
-#最新文章
+# 最新文章
 
 [深入解读 Java 9 新特性](http://mp.weixin.qq.com/s/ivj2SmTZqr5qVfPbauPZxg)
 
 
-#开发工具站
+# 开发工具站
 
 [json2java](http://www.jsons.cn/json2java/)
 
