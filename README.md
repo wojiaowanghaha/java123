@@ -15,7 +15,11 @@ he place to collaborate on an open-source implementation of the Java Platform, S
 
 [Java 9](https://docs.oracle.com/javase/9/docs/api) [Java 8](https://docs.oracle.com/javase/8/docs/api) [Java 7](https://docs.oracle.com/javase/7/docs/api) [Java 6](https://docs.oracle.com/javase/6/docs/api) [Java 1.5.0](https://docs.oracle.com/javase/1.5.0/docs/api)
 
-
+| 水果        | 价格    |  数量  |
+    | --------   | -----:   | :----: |
+    | 香蕉        | $1      |   5    |
+    | 苹果        | $1      |   6    |
+    | 草莓        | $1      |   7    |
 
 
 
