@@ -16,10 +16,6 @@ he place to collaborate on an open-source implementation of the Java Platform, S
 
 # Java官方 API
 
- 
-|  	     |              |          |       |  |
-|:----------|:-----------:|:------|:----------:|:------:|
-
 | [Java 9](https://docs.oracle.com/javase/9/docs/api) 	     | [Java 8](https://docs.oracle.com/javase/8/docs/api)             |          [Java 7](https://docs.oracle.com/javase/7/docs/api)      |  [Java 6](https://docs.oracle.com/javase/6/docs/api) |
 [Java 1.5.0](https://docs.oracle.com/javase/1.5.0/docs/api)|
 
@@ -36,18 +32,14 @@ he place to collaborate on an open-source implementation of the Java Platform, S
 
 
 
-
-
-
 # 好的平台网站
 
 
 |名称| 	简介 |	地址
-|:----------|:-----------:|:------:|
-|ibm developerworks|ibm旗下的developerworks网站，很多关于Java的高质量博客，查找开发人员所需的教程、工具和社区|[ibm developerworks|
-](https://www.ibm.com/developerworks/cn/java/)
+|:----------|:-----------:|:----:|
+|ibm developerworks|ibm旗下的developerworks网站，很多关于Java的高质量博客，查找开发人员所需的教程、工具和社区|[地址](https://www.ibm.com/developerworks/cn/java/)
 |10条|开发者公众号大全 关于技术的公众号搜索大全|[http://10tiao.com/](http://10tiao.com/)|
-|极客导航|极客导航-程序员自己的导航|[极客导航-程序员自己的导航](http://www.jikedaohang.com/)|
+|极客导航|极客导航-程序员自己的导航|[地址](http://www.jikedaohang.com/)|
 |编码猴网codemonkey.wang|[编码猴网codemonkey.wang](http://www.codemonkey.wang/)|
 |并发编程网 - ifeve.com||[并发编程网 - ifeve.com](http://ifeve.com/)|
 |开发者头条|[开发者头条](https://toutiao.io/subjects/56996)|
