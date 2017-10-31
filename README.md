@@ -31,10 +31,7 @@ he place to collaborate on an open-source implementation of the Java Platform, S
 |名称| 	简介 |	地址
 |:----------|:-----------:|:------:|
 |dream ||[dream 的博客](http://www.jsondream.com/)|
-
-
 |skywang12345|skywang12345 博客包含数据结构，Java线程等系列文章|[skywang12345](http://www.cnblogs.com/skywang12345/)|
-
 |兰亭风雨的专栏|Java牛人|[兰亭风雨的专栏](http://blog.csdn.net/ns_code)|
 
 
