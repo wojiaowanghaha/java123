@@ -11,42 +11,26 @@ he place to collaborate on an open-source implementation of the Java Platform, S
 
 [jcp](ttps://jcp.org)
 
+
+
+
 # Java官方 API
 
-[Java 9](https://docs.oracle.com/javase/9/docs/api) [Java 8](https://docs.oracle.com/javase/8/docs/api) [Java 7](https://docs.oracle.com/javase/7/docs/api) [Java 6](https://docs.oracle.com/javase/6/docs/api) [Java 1.5.0](https://docs.oracle.com/javase/1.5.0/docs/api)
+ 
 
  <table>
         <tr>
-            <th>设备</th>
-            <th>设备文件名</th>
-            <th>文件描述符</th>
-            <th>类型</th>
-        </tr>
-        <tr>
-            <th>键盘</th>
-            <th>/dev/stdin</th>
-            <th>0</th>
-            <th>标准输入</th>
-        </tr>
-        <tr>
-            <th>显示器</th>
-            <th>/dev/stdout</th>
-            <th>1</th>
-            <th>标准输出</th>
-        </tr>
-        <tr>
-            <th>显示器</th>
-            <th>/dev/stderr</th>
-            <th>2</th>
-            <th>标准错误输出</th>
-        </tr>
+            <th>[Java 9](https://docs.oracle.com/javase/9/docs/api)</th>
+            <th> [Java 8](https://docs.oracle.com/javase/8/docs/api) </th>
+            <th>[Java 7](https://docs.oracle.com/javase/7/docs/api)</th>
+            <th> [Java 6](https://docs.oracle.com/javase/6/docs/api)</th>
+        <th> [Java 1.5.0](https://docs.oracle.com/javase/1.5.0/docs/api)</th>
+       
+     
     </table>
 
 
-作者：Gaolex
-链接：http://www.jianshu.com/p/abaff828100d
-來源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 
 # 好的博客
 
