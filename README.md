@@ -1,7 +1,7 @@
-Java 开发资源收集
+Java Android开发资源收集
 ===============
 
->收集整理关于Java开发学习的资源。
+>收集整理关于Java Android 开发学习的资源。
 
 # 国外
 
@@ -65,9 +65,16 @@ he place to collaborate on an open-source implementation of the Java Platform, S
 
 # 开发工具站
 
-[json2java](http://www.jsons.cn/json2java/)
+|名称| 	简介 |	地址
+|:----------|:-----------:|:----:|
 
-工具网站：包括json2java，json在线转化为JavaBean等工具
+|json2java|工具网站：包括json2java，json在线转化为JavaBean等工具|[地址](http://www.jsons.cn/json2java/)|
+
+|进制在线转换|支持在2~36进制之间进行任意转换，支持浮点型|[地址](http://tool.oschina.net/hexconvert/)|
+
+
+
+
 
 
 
