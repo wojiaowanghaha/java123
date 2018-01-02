@@ -20,7 +20,11 @@ he place to collaborate on an open-source implementation of the Java Platform, S
 [Java 1.5.0](https://docs.oracle.com/javase/1.5.0/docs/api)|
 
 
-
+|名称| 	地址 |	简介
+|:----------|:-----------:|:------:|
+|http://weishu.me| 	http://weishu.me |	内有 Android 插件化原理解析系列文章
+|Gityuan博客 |	http://gityuan.com/ 	|内容十分丰富
+|老罗的Android之旅 |	http://blog.csdn.net/Luoshengyang |	学Android，看老罗
 
 # 好的博客
 
