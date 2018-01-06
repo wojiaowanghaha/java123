@@ -25,8 +25,8 @@ he place to collaborate on an open-source implementation of the Java Platform, S
 # Android 源码学习好的资源
 
 |名称| 	地址 |	简介
-|:----------|:-----------:|:------:|
-|http://weishu.me| 	http://weishu.me |	[内有 Android 插件化原理解析系列文章]()
+|:----------|:-----------|:------|
+|http://weishu.me| 	http://weishu.me |	[内有 Android 插件化原理解析系列文章](http://weishu.me/2016/01/28/understand-plugin-framework-overview/)
 |Gityuan博客 |	http://gityuan.com/ 	|内容十分丰富
 |老罗的Android之旅 |	http://blog.csdn.net/Luoshengyang |	学Android，看老罗
 |Android博客周刊专题之＃插件化开发＃ |	http://www.androidblog.cn/index.php/Index/detail/id/16 |	本期专栏目讨论插件化开发。插件化涉及的东西很多，所以我们需要多个维度去学习。大概分为5个部分：预备知识、入门、进阶、系列、类库。一步一步深入了解插件的原理。
